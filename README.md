@@ -2,12 +2,12 @@
 
 ## 🧠 Machine Learning & Geospatial Analysis
 
-Soy desarrolladora de Machine Learning enfocada en análisis geoespacial aplicado a problemas educativos en El Salvador.
+Como investigadora y desarrolladora de Machine Learning me he enfocado en Análisis aplicado a problemas educativos en El Salvador.
 
-Trabajo en proyectos de investigación aplicada en:
+Trabajando en proyectos de investigación aplicada en:
 
 - Asociación de Matemáticos de El Salvador  
-- Universidad de El Salvador  
+- Universidad de El Salvador/Escuela de Matemática y Ciencias  
 - Escuelas públicas de San Salvador  
 
 ---
