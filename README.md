@@ -1,4 +1,4 @@
-# 👩‍💻 Jekaguila
+# 👩‍💻 Jessica Águila
 
 ## 🧠 Machine Learning & Geospatial Analysis
 
